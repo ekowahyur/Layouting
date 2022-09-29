@@ -4,7 +4,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
   const overlay = document.querySelector('.overlay-bg')
   const closeButton = document.querySelector('.close-button')
   burgerIcon.addEventListener('click', () => {
-    // console.log('burger ico di click')
     sidebar.classList.add('menu-active')
     overlay.classList.add('menu-active')
   });

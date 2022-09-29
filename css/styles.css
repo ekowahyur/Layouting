@@ -17,15 +17,6 @@ body {
   z-index: 99;
 }
 
-/* .container {
-    border: 3px solid green;
-    width: 1370px;
-    margin: auto;
-    max-width: 100%;
-    display: flex;
-    flex-direction: row;
-} */
-
 .logo {
   /* border: 3px solid yellow; */
   width: 151px;
@@ -68,12 +59,6 @@ body {
     width: 40px;
   }
 }
-
-/* @media (max-width: 767px) {
-    .menu {
-        display: block;
-    }
-} */
 
 .hero-section {
   background: #f1f3ff;
